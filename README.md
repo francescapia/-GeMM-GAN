@@ -19,6 +19,6 @@ GeMM-GAN leverages:
 - A **Multimodal Fusion module** with FiLM and Cross-Attention
 - A **Wasserstein GAN with Gradient Penalty (WGAN-GP)** for transcriptomic profile generation
 
-<p align="center">
-  <img src="ICIAP_Architecture.pdf" width="600"/>
-</p>
+
+!("ICIAP_Architecture.pdf")
+
