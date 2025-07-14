@@ -20,5 +20,5 @@ GeMM-GAN leverages:
 - A **Wasserstein GAN with Gradient Penalty (WGAN-GP)** for transcriptomic profile generation
 
 
-![] ("ICIAP_Architecture.pdf")
+![Model Architecture](ICIAP_Architecture.png)
 
